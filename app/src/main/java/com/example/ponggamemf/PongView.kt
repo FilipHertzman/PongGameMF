@@ -14,7 +14,7 @@ import android.util.Log
 import android.view.MotionEvent
 import android.view.SurfaceHolder
 
-//hej
+//hejkio
 
 
 @SuppressLint("ViewConstructor")
