@@ -14,6 +14,8 @@ import android.util.Log
 import android.view.MotionEvent
 import android.view.SurfaceHolder
 
+//hej
+
 
 @SuppressLint("ViewConstructor")
 class PongView (context: Context, var ScreenX : Int, var ScreenY : Int) : SurfaceView(context), Runnable {
