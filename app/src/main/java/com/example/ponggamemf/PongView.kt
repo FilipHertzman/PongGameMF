@@ -1,4 +1,4 @@
 package com.example.ponggamemf
 
-class PongView {
+class PongView{
 }
